@@ -1,7 +1,7 @@
 package com.isograd.exercise;
 
 import java.io.InputStream;
-import java.util.*;
+import java.util.Scanner;
 
 public class IsoContest {
 
