@@ -1,6 +1,10 @@
 target/
 out/
 
+# gradle
+.gradle/
+build/
+
 ### IntelliJ IDEA ###
 .idea
 *.iws

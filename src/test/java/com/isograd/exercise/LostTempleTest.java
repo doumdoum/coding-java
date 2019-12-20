@@ -5,7 +5,6 @@ import org.junit.Test;
 import java.io.InputStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.Assert.*;
 
 public class LostTempleTest {
 
